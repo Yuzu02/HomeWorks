@@ -1,4 +1,4 @@
-# Tareas universitarias sobre Python,PseInt y demas lenguajes
+# Tareas universitarias sobre Python,PseInt,Java y demas lenguajes
 
 Este repositorio contiene tareas y proyectos realizados en el marco de mis estudios universitarios relacionados con el lenguaje de programación Python , PseInt, Java y demas.
 
@@ -6,7 +6,11 @@ Este repositorio contiene tareas y proyectos realizados en el marco de mis estud
 
 Para poder visualizar y/o ejecutar el código de las tareas y proyectos incluidos en este repositorio, necesitarás tener instalado Python en tu ordenador. Puedes descargar la última versión de Python desde el siguiente enlace: https://www.python.org/downloads/.
 
-Además, algunos de los proyectos pueden requerir la instalación de paquetes adicionales. En ese caso, se incluirán las instrucciones necesarias en cada carpeta de proyecto.
+Además, algunos de los proyectos pueden requerir la instalación de paquetes adicionales (Tanto en Python como en Java). En ese caso, se incluirán las instrucciones necesarias en cada carpeta de proyecto.
+
+Por otro lado puedes descargar la última versión de Java desde el siguiente enlace: https://www.java.com/es/download/.
+
+Pseint es una herramienta de programación visual para Pseudocódigo. Puedes descargarla desde el siguiente enlace: https://pseint.software.informer.com/download/.
 
 ## Contribuciones
 
