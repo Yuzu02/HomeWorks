@@ -24,4 +24,4 @@ print("El número es 0, por lo tanto es nulo")
   #El número es negativo
   
   #Ingrese un número entero: 0
-  #El número es el número es 0, por lo tanto es nulo
+  #El número es 0, por lo tanto es nulo
