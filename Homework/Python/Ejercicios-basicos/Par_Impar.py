@@ -1,5 +1,3 @@
-# Descripción: Ejercicio 6  - Escribir una función que reciba un número entero y devuelva True si es par o False si es impar.
-
 # Pedimos al usuario que ingrese un número entero
 def es_par(numero): # Definimos la función
   if numero % 2 == 0: # Si el número es divisible por 2, es par
