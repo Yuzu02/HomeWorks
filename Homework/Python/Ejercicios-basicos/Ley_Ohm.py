@@ -32,8 +32,3 @@ if i == 0:
 
 # Mostramos el resultado
 print(ley_de_ohm(v, r, i))
-
-
-# Comeentar o descomentar para probar el código
-
-# Pruebas
