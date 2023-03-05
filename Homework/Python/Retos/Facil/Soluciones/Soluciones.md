@@ -1,5 +1,5 @@
-Para subir una solucion deberas tomar el numero de reto que es en la lista de retos luego en tu soluciom deberas poner el nombre del ejercicio
-(Ejemplo: Calculadora de operaciones basicas)
+Para subir una solucion deberas crear una carpeta con nick (nombre) ,  tomar el numero de reto que es en la lista de retos luego en tu soluciom deberas 
+poner el nombre del ejercicio. (Ejemplo: Calculadora de operaciones basicas)
 
 Haces un comentario al inico de tu solucion con el nombre del reto.
 
