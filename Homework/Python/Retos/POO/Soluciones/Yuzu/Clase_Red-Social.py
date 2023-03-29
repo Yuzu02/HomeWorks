@@ -28,7 +28,7 @@ twitter = RedSocial("Twitter", 330000000, 2006)
 instagram = RedSocial("Instagram", 1000000000, 2010)
 linkedin = RedSocial("LinkedIn", 740000000, 2002)
 tiktok = RedSocial("TikTok", 1300000000, 2016)
-yuzulandia = RedSocial("Yuzulandia", 9999999999999999999, 2023)
+yuzulandia = RedSocial("Yuzulandia",9876543210 , 2020)
 
 # Creamos la variable opcion para que el usuario pueda seleccionar una opcion y que el bucle while dependa de esta variable
 opcion = -1
