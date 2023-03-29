@@ -6,6 +6,7 @@
 • Crea un objeto de la clase "Perro" y establece los valores de sus atributos.
 
 • Imprime los atributos del objeto de la clase "Perro".
+
 '''
 
 class Perro:
