@@ -3,7 +3,7 @@
 <li>Crear un modelo de aprendizaje profundo que pueda detectar objetos en imágenes utilizando TensorFlow:</li>
 </ol>
 <ul>
-<li>Aprender los conceptos básicos del aprendizaje profundo y las redes neuronales convolucionales.</li>
+<li>Aprender los conceptos básicos del aprendizaje profundo y las redes neuronales convolucionalesy ponerlos en practica.</li>
 <li>Utilizar TensorFlow para crear un modelo de red neuronal convolucional que pueda detectar objetos en imágenes.</li>
 <li>Recopilar y preparar un conjunto de datos de imágenes para entrenar el modelo.</li>
 <li>Entrenar el modelo con el conjunto de datos de entrenamiento y ajustar los hiperparámetros para mejorar la precisión.</li>
